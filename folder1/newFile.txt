@@ -2,5 +2,6 @@ new line text
 
 New line 2
 
-New 3 line
-New
+<<<<<<< HEAD
+
+>>>>>>> 3d827953310a26d5ceaa39dddf2b7b690ddd2406
